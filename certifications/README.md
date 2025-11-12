@@ -1,5 +1,11 @@
 # Certifications
 
+## INE eCPPT
+
+![eCPPT Certification](images/ecppt-certification.png)
+
+[Verification](https://certs.ine.com/b562b53f-a495-4f60-83a2-995a0c32d2b9#acc.GSXUw2LF)
+
 ## TCM PJPT (The Cyber Mentor)
 
 ![PJPT Certification](images/pjpt-certification.png)
