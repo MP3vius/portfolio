@@ -15,7 +15,8 @@
 
 ![ITIL 4 Foundation Certification](images/itil-4-foundation-certification.png)
 
-[Verification](https://www.peoplecert.org/for-corporations/certificate-verification-service) - Use below info 
+[Verification](https://www.peoplecert.org/for-corporations/certificate-verification-service) - Use below info
+
 Cert ID: GR671868194JM
 
 ## INE eCPPT
