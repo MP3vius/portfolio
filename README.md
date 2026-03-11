@@ -1,10 +1,10 @@
-# My Penetration Testing Portfolio
+# My Portfolio
 
-Welcome to my portfolio! This repository contains resources related to penetration testing, including certifications and report examples from Hack The Box (HTB) machines.
+Welcome to my portfolio! This repository contains resources related to Information Technology and penetration testing, including certifications and report examples from Hack The Box (HTB) machines.
 
 ## 🎓 Certifications
 
-This section contains the certifications I've earned in the field of penetration testing.
+This section contains the certifications I've earned in the field of IT and Cybersecurity.
 
 [Click here to view my certifications](./certifications)
 
