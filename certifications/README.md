@@ -1,5 +1,23 @@
 # Certifications
 
+## Comptia A+
+
+![CompTIA A+ Certification](images/comptia-a-certification.png)
+
+[Verification](https://www.credly.com/badges/3ea659dd-3275-4e0d-b036-daa2b3320990/linked_in_profile)
+
+## WincAcademy
+![IT Servicedesk Medewerker Certification](images/winc-academy-certification.png)
+
+[Verification](https://credsverse.com/credentials/b257bb6c-a8eb-41e5-a6eb-442f53a1f0ad)
+
+## ITIL 4 Foundation
+
+![ITIL 4 Foundation Certification](images/itil-4-foundation-certification.png)
+
+[Verification](https://www.peoplecert.org/for-corporations/certificate-verification-service) - Use below info 
+Cert ID: GR671868194JM
+
 ## INE eCPPT
 
 ![eCPPT Certification](images/ecppt-certification.png)
@@ -21,9 +39,3 @@
 [Verification](https://www.hackthebox.com/certificates) – Use below info  
 Full name: Jan Mevius  
 Cert ID: HTBCERT-80E007BB98
-
-## Comptia A+
-
-![CompTIA A+ Certification](images/comptia-a-certification.png)
-
-[Verification](https://www.credly.com/badges/3ea659dd-3275-4e0d-b036-daa2b3320990/linked_in_profile)
